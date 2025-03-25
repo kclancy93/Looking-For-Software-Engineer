@@ -26,6 +26,11 @@ A close friend of mine has recently secured a position as a software engineer in
 - You'll be **plugged directly into the technical work**, allowing you to deliver impact from day one.  
 - The role is **remote-friendly** and offers flexibility, with a supportive environment geared toward autonomy and productivity.
 
+## Compensation
+
+- **$3,000 – $4,000 USD per month**  
+- Compensation will be based on experience and skillset
+
 ## Contact Information
 
 If you meet the above criteria and are interested in this opportunity, please feel free to reach out:
