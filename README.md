@@ -18,6 +18,7 @@ A close friend of mine has recently secured a position as a software engineer in
   - Frontend (e.g., **React**, **TypeScript**)  
   - Backend (e.g., **Node.js**, **Python**, **Databases**)  
 - Experience with **AWS** or **GCP** is a **plus**
+- Familiarity with **Redis** and general **caching strategies** is a **plus**
 
 ## Why You May Be Interested
 
